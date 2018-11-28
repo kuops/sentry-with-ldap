@@ -1,0 +1,2 @@
+# Add plugins here
+sentry-ldap-auth
